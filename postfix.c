@@ -44,3 +44,5 @@ s[++top]=res;
 res=s[top--];
 printf("the result is %f",res);
 getch();
+}
+
